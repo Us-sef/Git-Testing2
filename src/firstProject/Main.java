@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Person p1 = new Person("youssef");
+		Person p1 = new Person("youssef55");
 		p1.setLname("fhal");
 		p1.setAge(23);
 		p1.getAge();
