@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Person p1 = new Person("youssef55");
 		p1.setLname("fhal4");
-		p1.setAge(88888);
+		p1.setAge(33333);
 		p1.getAge();
 		
 		Person p2 = new Person("hamza");
