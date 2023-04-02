@@ -4,6 +4,7 @@ public class Person {
 	
 	String fname ; 
 	String lname ; 
+	String address; 
 	int age ;
 	
 	public Person(String fname) {
