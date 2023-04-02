@@ -19,6 +19,9 @@ public class Main {
 		
 		System.out.println(p1);
 		System.out.println(p2);
+		
+		System.out.println(p1);
+		System.out.println(p2);
 	
 	}
 
